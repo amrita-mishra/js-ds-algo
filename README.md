@@ -1,1 +1,1 @@
-# js-ds-algo
+### This project is about implementing algorithms and data structures using javascript
